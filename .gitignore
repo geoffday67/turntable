@@ -1,0 +1,7 @@
+*.iml
+**/build/
+.gradle/
+.idea/
+private_values.xml
+*.apk
+temp/
